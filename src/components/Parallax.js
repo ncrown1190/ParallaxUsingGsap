@@ -8,6 +8,8 @@ import image2 from "./2.jpg";
 import image3 from "./3.jpg";
 import image4 from "./4usp.jpg";
 import image5 from "./5usp.jpg";
+import image6 from "./6usp.jpg";
+import image7 from "./7usp.jpg";
 
 export const Parallax = () => {
   const { innerHeight } = window;
@@ -53,6 +55,14 @@ export const Parallax = () => {
       <section>
         <div className="bg" style={{ backgroundImage: `url(${image3}` }} />
         <h1>Nice, right?</h1>
+      </section>
+      <section>
+        <div className="bg" style={{ backgroundImage: `url(${image6}` }} />
+        <h1>Cool</h1>
+      </section>
+      <section>
+        <div className="bg" style={{ backgroundImage: `url(${image7}` }} />
+        <h1>Awsome, right?</h1>
       </section>
     </>
   );
