@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ParallaxUsingGsap/static/css/main.f4182d4b.css",
+    "main.js": "/ParallaxUsingGsap/static/js/main.7e4460c0.js",
+    "static/js/787.9f7c31cb.chunk.js": "/ParallaxUsingGsap/static/js/787.9f7c31cb.chunk.js",
+    "static/media/7usp.jpg": "/ParallaxUsingGsap/static/media/7usp.81d4b24355168d5d543f.jpg",
+    "static/media/2.jpg": "/ParallaxUsingGsap/static/media/2.3c98f7196b8c1711fa17.jpg",
+    "static/media/6usp.jpg": "/ParallaxUsingGsap/static/media/6usp.34d9471ff30543f1162c.jpg",
+    "static/media/4usp.jpg": "/ParallaxUsingGsap/static/media/4usp.e3d3d2ca1816e91ea82e.jpg",
+    "static/media/5usp.jpg": "/ParallaxUsingGsap/static/media/5usp.310e8a08ecd93cc1670d.jpg",
+    "static/media/3.jpg": "/ParallaxUsingGsap/static/media/3.99ed7ba3bf9ff4716a69.jpg",
+    "index.html": "/ParallaxUsingGsap/index.html",
+    "main.f4182d4b.css.map": "/ParallaxUsingGsap/static/css/main.f4182d4b.css.map",
+    "main.7e4460c0.js.map": "/ParallaxUsingGsap/static/js/main.7e4460c0.js.map",
+    "787.9f7c31cb.chunk.js.map": "/ParallaxUsingGsap/static/js/787.9f7c31cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4182d4b.css",
+    "static/js/main.7e4460c0.js"
+  ]
+}
