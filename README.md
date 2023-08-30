@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+npx create-react-app parallaxreact
+
+cd parallaxreact
+
+npm start
+
+# Once the project is set up we can install GSAP through npm
+npm i gsap
+
+npm start
+
+https://greensock.com/react-basics/
+
 ## Available Scripts
 
 In the project directory, you can run:
